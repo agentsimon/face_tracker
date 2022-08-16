@@ -1,4 +1,4 @@
-from operator import index
+# Convert video input to a list of 1 and 0 for sending via OSC
 import cv2
 from pythonosc import dispatcher
 from pythonosc import osc_server
